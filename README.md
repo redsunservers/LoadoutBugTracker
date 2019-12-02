@@ -11,3 +11,6 @@ It gives us access to better notifications, ability to tag issues, assigning spe
 We also have few gamemode plugins open source. If you want to suggest or report bugs related to one of gamemode, should be done in said repository instead of here
 - [Super Zombie Fortress](https://github.com/redsunservers/SuperZombieFortress)
 - [Versus Saxton Hale](https://github.com/redsunservers/VSH-Rewrite)
+- [Instagib](https://github.com/haxtonsale/TF2Instagib)
+- [GunGame](https://github.com/ScrewdriverHyena/tfgungame-redux)
+- [TFGO Arena](https://github.com/Mikusch/tfgo)
