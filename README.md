@@ -1,6 +1,6 @@
 ![Logo](https://cdn.redsun.tf/256_logo.png)
 
-Loadout build status: ![CircleCI](https://circleci.com/gh/EgocentricPoliceDick/redsun-master.png?style=shield&circle-token=dd2f42e59c118bc133a486cbf74cc2b09d9de943)
+Full server build status: ![Action Status](https://github.com/redsunservers/redsun-master/workflows/Full%20Build/badge.svg)
 # What is this?
 `LoadoutBugTracker` is the public-facing bug tracker for Red Sun Over Paradise's plugins, [forum](https://forum.redsun.tf) and [main website, the Red Sun Loadout](https://redsun.tf).
 
