@@ -1,4 +1,4 @@
-![Logo](https://cdn.redsun.tf/256_logo.png)
+![Logo](https://redsun.tf/256_logo.png)
 
 Full server build status: ![Action Status](https://github.com/redsunservers/redsun-master/workflows/Full%20Build/badge.svg)
 # What is this?
