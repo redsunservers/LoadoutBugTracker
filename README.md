@@ -8,12 +8,14 @@ Full server build status: ![Action Status](https://github.com/redsunservers/reds
 It gives us access to better notifications, ability to tag issues, assigning specific developers to bugs based on their speciality and an overall more sophisticated system than just using a forum board that is not used as much in the first place.
 
 ## Public repositories
-We also have few gamemode plugins open source. If you want to suggest or report bugs related to one of gamemode, should be done in said repository instead of here
+We also have several open source gamemode plugins. If you want to suggest or report bugs related to it (not related to redsun loadout), should be done in said repository instead of here
 - [Deathrun](https://github.com/Mikusch/deathrun)
+- [Fortress Royale](https://github.com/Mikusch/fortress-royale)
 - [GunGame](https://github.com/ScrewdriverHyena/tfgungame-redux)
 - [Instagib](https://github.com/haxtonsale/TF2Instagib)
 - [MicroTF2](https://github.com/gemidyne/microtf2)
 - [Randomizer](https://github.com/FortyTwoFortyTwo/Randomizer)
+- [Stop That Tank & Tank Race](https://github.com/akowald/StopThatTank)
 - [Super Zombie Fortress](https://github.com/redsunservers/SuperZombieFortress)
 - [TFGO Arena](https://github.com/Mikusch/tfgo)
 - [Versus Saxton Hale](https://github.com/redsunservers/VSH-Rewrite)
