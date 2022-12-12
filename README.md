@@ -10,15 +10,13 @@ It gives us access to better notifications, ability to tag issues, assigning spe
 ## Public repositories
 We also have several open source gamemode plugins. If you want to suggest or report bugs related to it (not related to redsun loadout), should be done in said repository instead of here
 - [Deathrun](https://github.com/Mikusch/deathrun)
-- [Fortress Royale](https://github.com/Mikusch/fortress-royale)
 - [GunGame](https://github.com/ScrewdriverHyena/tfgungame-redux)
-- [Hero Fortress](https://github.com/KirillianAmu/hero-fortress-public)
 - [Instagib](https://github.com/haxtonsale/TF2Instagib)
 - [Mann vs. Mann](https://github.com/Mikusch/MannVsMann)
 - [MicroTF2](https://github.com/gemidyne/microtf2)
+- [PropHunt] (https://github.com/Mikusch/PropHunt)
 - [Randomizer](https://github.com/FortyTwoFortyTwo/Randomizer)
-- [SCP: Secret Fortress](https://github.com/Batfoxkid/SCP-Secret-Fortress)
-- [Stop That Tank & Tank Race](https://github.com/akowald/StopThatTank)
+- [SCP: Secret Fortress](https://github.com/redsunservers/SCP-Secret-Fortress)
 - [Super Zombie Fortress](https://github.com/redsunservers/SuperZombieFortress)
 - [TF:GO](https://github.com/Mikusch/tfgo)
 - [Versus Saxton Hale](https://github.com/redsunservers/VSH-Rewrite)
