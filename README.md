@@ -13,7 +13,7 @@ We also have several open source gamemode plugins. If you want to suggest or rep
 - [GunGame](https://github.com/ScrewdriverHyena/tfgungame-redux)
 - [Instagib](https://github.com/haxtonsale/TF2Instagib)
 - [Mann vs. Mann](https://github.com/Mikusch/MannVsMann)
-- [MicroTF2](https://github.com/gemidyne/microtf2)
+- [Prop Kill](https://github.com/Batfoxkid/TF2-Prop-Kill)
 - [PropHunt](https://github.com/Mikusch/PropHunt)
 - [Randomizer](https://github.com/FortyTwoFortyTwo/Randomizer)
 - [SCP: Secret Fortress](https://github.com/redsunservers/SCP-Secret-Fortress)
