@@ -19,4 +19,5 @@ We also have several open source gamemode plugins. If you want to suggest or rep
 - [SCP: Secret Fortress](https://github.com/redsunservers/SCP-Secret-Fortress)
 - [Super Zombie Fortress](https://github.com/redsunservers/SuperZombieFortress)
 - [TF:GO](https://github.com/Mikusch/tfgo)
+- [TF2Ware Ultimate](https://github.com/ficool2/TF2Ware_Ultimate)
 - [Versus Saxton Hale](https://github.com/redsunservers/VSH-Rewrite)
