@@ -12,6 +12,7 @@ We also have several open source gamemode plugins. If you want to suggest or rep
 - [Deathrun](https://github.com/Mikusch/deathrun)
 - [GunGame](https://github.com/ScrewdriverHyena/tfgungame-redux)
 - [Instagib](https://github.com/haxtonsale/TF2Instagib)
+- [Mann in the Machine](https://github.com/Mikusch/MannInTheMachine)
 - [Mann vs. Mann](https://github.com/Mikusch/MannVsMann)
 - [Prop Kill](https://github.com/Batfoxkid/TF2-Prop-Kill)
 - [PropHunt](https://github.com/Mikusch/PropHunt)
